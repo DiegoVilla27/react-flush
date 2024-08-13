@@ -1,4 +1,4 @@
-# ReactRules 📁
+# ReactFlush 📁
 
 How to use Flush Sync in React to render DOM manually
 
