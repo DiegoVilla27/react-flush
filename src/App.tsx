@@ -21,11 +21,13 @@ function App() {
   return (
     <>
       <div>
+        <h1>Not Flush</h1>
         <p>Contador: {count}</p>
         <button onClick={handleClickNotFlush}>Incrementar</button>
       </div>
       <hr />
       <div>
+        <h1>Flush</h1>
         <p>Contador: {countFlush}</p>
         <button onClick={handleClickFlush}>Incrementar</button>
       </div>

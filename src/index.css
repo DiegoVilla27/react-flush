@@ -16,6 +16,10 @@ body {
   padding: 20px;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 hr {
   margin: 20px 0px;
 }
